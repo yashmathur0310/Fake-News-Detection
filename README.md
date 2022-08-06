@@ -1,2 +1,1 @@
-# jackett_subject
 
